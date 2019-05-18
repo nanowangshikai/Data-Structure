@@ -22,6 +22,7 @@ public class CITS2200ProjectTester {
 
 	public static void main(String[] args) {
 		// Change this to be the path to the graph file.
+		//go your own directory path to test it
 		String pathToGraphFile = "/Users/nano/Documents/workspace/CITS2200Project/src/example_graph.txt";
 		// Create an instance of your implementation.
 		CITS2200Project proj = new MyCITS2200Project();
